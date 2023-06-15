@@ -21,7 +21,7 @@ INSTRUCTIONS: Copy each line of code into the Anaconda command prompt app one at
 **conda install scipy numpy sympy Click Pillow matplotlib=2.1.0** \
 [This installs the packages and functions that are used in the applet.]
 
-**git clone https://github.com/abiglin/sirmodel.git** \
+**git clone https://github.com/Girls-Talk-Math/sirmodel.git** \
 [This imports the sirmodel folders from GitHub.]
 
 
